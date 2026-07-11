@@ -1,38 +1,73 @@
 # Tableau Cloud Administration Toolkit
 
-A comprehensive toolkit for Tableau Cloud Administrators, Business Intelligence professionals, and Analytics Engineers.
+Enterprise-grade resources for Tableau Cloud Administrators, Business Intelligence professionals, and Analytics Engineers.
 
 ---
 
-## Overview
+## About This Project
 
-This repository contains practical guidance, documentation, automation examples, and dashboard concepts for managing an enterprise Tableau Cloud environment.
+This repository is a growing collection of practical guidance, documentation, templates, and examples for managing Tableau Cloud in an enterprise environment.
+
+The content is based on real-world administration experience and focuses on governance, monitoring, automation, security, and platform optimization.
 
 ---
 
-## Technologies
+## What You'll Find
 
-- Tableau Cloud
-- Tableau Desktop
-- Tableau Prep
+### Governance
+- Enterprise governance framework
+- Naming standards
+- Publishing standards
+- Content lifecycle
+
+### Administration
+- User and group management
+- Site roles
+- Project permissions
 - Tableau Bridge
-- Snowflake
-- SQL
+
+### Monitoring
+- Background Jobs
+- Extract Failures
+- Peak vs Off-Peak Analysis
+- Performance Monitoring
+
+### Automation
 - PowerShell
-- Power Automate
-- ServiceNow
+- Tableau REST API
+- Administrative automation
+
+### SQL
+- Snowflake examples
+- Performance optimization
+- Query best practices
 
 ---
 
-## Repository Roadmap
+## Repository Structure
 
-- [ ] Governance Standards
-- [ ] Tableau Administration Guide
-- [ ] Monitoring Dashboards
-- [ ] SQL Optimization
-- [ ] PowerShell Scripts
-- [ ] Tableau REST API
-- [ ] Tableau Prep
-- [ ] Metadata Dashboard
-- [ ] Content Cleanup Dashboard
-- [ ] Performance Optimization
+```text
+docs/
+dashboards/
+sql/
+powershell/
+rest-api/
+tableau-prep/
+templates/
+```
+
+---
+
+## Project Status
+
+This project is actively being developed and expanded with enterprise-focused Tableau administration content.
+
+---
+
+## Author
+
+**Ikhtiar Ahmed Akhter Khan**
+
+Senior Business Intelligence Analyst
+
+Dhaka, Bangladesh
